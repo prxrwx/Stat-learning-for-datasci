@@ -1,2 +1,2 @@
-# prxrwx-Stat-learning-for-datasci
+# Stat-learning-for-datasci
 Analysis and Modelling
